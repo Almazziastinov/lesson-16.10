@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson 16.10", "lesson 16.10\lesson 16.10.csproj", "{CFF6504C-F829-41A0-B26C-969CBCB8CCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweetsshop", "sweetsshop\sweetsshop.csproj", "{479F6F21-01E3-4A29-B787-AD6AC61CD576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF6504C-F829-41A0-B26C-969CBCB8CCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF6504C-F829-41A0-B26C-969CBCB8CCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF6504C-F829-41A0-B26C-969CBCB8CCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF6504C-F829-41A0-B26C-969CBCB8CCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479F6F21-01E3-4A29-B787-AD6AC61CD576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479F6F21-01E3-4A29-B787-AD6AC61CD576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479F6F21-01E3-4A29-B787-AD6AC61CD576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479F6F21-01E3-4A29-B787-AD6AC61CD576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDBCEDC-B60A-49BD-869E-86B0C041638B}
+	EndGlobalSection
+EndGlobal
